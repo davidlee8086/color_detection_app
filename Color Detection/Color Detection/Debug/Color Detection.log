@@ -1,0 +1,22 @@
+﻿生成启动时间为 6/12/2016 9:32:18 AM。
+     1>项目“D:\Traffic Signal Analysis\color_detection_app\Color Detection\Color Detection\Color Detection.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt detector.cpp
+         detector.cpp
+     1>d:\traffic signal analysis\color_detection_app\color detection\color detection\detector.cpp(65): warning C4129: “E”: 不可识别的字符转义序列
+     1>d:\traffic signal analysis\color_detection_app\color detection\color detection\detector.cpp(77): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\traffic signal analysis\color_detection_app\color detection\color detection\detector.cpp(83): warning C4129: “E”: 不可识别的字符转义序列
+     1>d:\traffic signal analysis\color_detection_app\color detection\color detection\detector.cpp(95): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\traffic signal analysis\color_detection_app\color detection\color detection\detector.cpp(101): warning C4129: “E”: 不可识别的字符转义序列
+     1>d:\traffic signal analysis\color_detection_app\color detection\color detection\detector.cpp(113): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\traffic signal analysis\color_detection_app\color detection\color detection\detector.cpp(119): warning C4129: “E”: 不可识别的字符转义序列
+     1>d:\traffic signal analysis\color_detection_app\color detection\color detection\detector.cpp(131): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\traffic signal analysis\color_detection_app\color detection\color detection\detector.cpp(137): warning C4129: “E”: 不可识别的字符转义序列
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Traffic Signal Analysis\color_detection_app\Color Detection\Debug\Color Detection.exe" /INCREMENTAL /NOLOGO opencv_ml2412d.lib opencv_calib3d2412d.lib opencv_contrib2412d.lib opencv_core2412d.lib opencv_features2d2412d.lib opencv_flann2412d.lib opencv_gpu2412d.lib opencv_highgui2412d.lib opencv_imgproc2412d.lib opencv_legacy2412d.lib opencv_objdetect2412d.lib opencv_ts2412d.lib opencv_video2412d.lib opencv_nonfree2412d.lib opencv_ocl2412d.lib opencv_photo2412d.lib opencv_stitching2412d.lib opencv_superres2412d.lib opencv_videostab2412d.lib opencv_objdetect2412.lib opencv_ts2412.lib opencv_video2412.lib opencv_nonfree2412.lib opencv_ocl2412.lib opencv_photo2412.lib opencv_stitching2412.lib opencv_superres2412.lib opencv_videostab2412.lib opencv_calib3d2412.lib opencv_contrib2412.lib opencv_core2412.lib opencv_features2d2412.lib opencv_flann2412.lib opencv_gpu2412.lib opencv_highgui2412.lib opencv_imgproc2412.lib opencv_legacy2412.lib opencv_ml2412.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Traffic Signal Analysis\color_detection_app\Color Detection\Debug\Color Detection.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Traffic Signal Analysis\color_detection_app\Color Detection\Debug\Color Detection.lib" /MACHINE:X86 Debug\detector.obj
+         Color Detection.vcxproj -> D:\Traffic Signal Analysis\color_detection_app\Color Detection\Debug\Color Detection.exe
+     1>已完成生成项目“D:\Traffic Signal Analysis\color_detection_app\Color Detection\Color Detection\Color Detection.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.67
